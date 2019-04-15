@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nico Carosio",
-  "license": "MIT",
+  "license": "MIT", 
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4"
